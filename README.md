@@ -1,0 +1,4 @@
+# PDF Reorder
+## Reordering a pdf file to print in half-page size double sided
+
+Like many folks out there, I'm all about the good old-fashioned feel of reading stuff on paper rather than squinting at a screen. To cut down on paper waste and save a bit of printer ink, I often go for the half-size document printing trick and double up on both sides of the paper. But here's the problem: when you print, it spits out pages in order. So, you end up with pages 1 and 2 on one side and 3 and 4 on the flip side. That means page 4 lands on the back of page 1, and page 3 on the back of page 2. What I really want is for page 2 to be on the back of page 1 and page 4 on the back of page 3.
